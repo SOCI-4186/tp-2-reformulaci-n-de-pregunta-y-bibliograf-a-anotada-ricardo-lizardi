@@ -1,7 +1,7 @@
 ---
 title: "SOCI 4186"
 subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Nombre del grupo"
-author: "Pon tu nombre aquí  \nNúmero de estudiante"
+author: "Ricardo Lizardi   \n 801-19-2369 " 
 date: today
 date-format: long
 lang: es
@@ -16,8 +16,8 @@ format:
     linkcolor: blue
     citecolor: blue
     urlcolor: blue
-bibliography: Referencias.bib
-csl: apa-clacso.csl
+
+
 ---
 
 **Fecha límite de entrega: domingo, 8 de marzo de 2026, a las 23:59.**
@@ -66,40 +66,20 @@ El documento debe incluir:
 Presente su pregunta de investigación refinada y, en 250–500 palabras, responda a las siguientes preguntas sobre ella:
 
 - ¿Es la pregunta principalmente de tipo inductiva o deductiva?
+Esta pregunta de investigación se aborda principalmente desde un enfoque deductivo. El estudio parte de una premisa teórica general: a medida que una población envejece, aumenta la prevalencia de condiciones crónicas y la fragilidad biológica, lo que mecánicamente eleva la necesidad de intervenciones médicas urgentes. La investigación busca probar cómo esta tendencia global se manifiesta en el caso específico y extremo de Puerto Rico, utilizando datos demográficos existentes para explicar los cambios en la operatividad de los servicios de emergencia.
+
+
 - ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
+El tema es crítico debido a que Puerto Rico experimenta la transición demográfica más acelerada en la jurisdicción de los Estados Unidos. Con una mediana de edad que aumentó de 36.9 a 45.2 años en una sola década y casi un 25% de la población mayor de 65 años, entender la presión sobre los servicios de emergencia es vital para la supervivencia del sistema de salud pública en la isla.
 - ¿Cómo aborda su pregunta una brecha en la literatura relevante?
+Aunque existen estudios sobre la crisis fiscal y la migración de médicos en Puerto Rico, hay un vacío en la literatura académica que vincule directamente el cambio en el perfil demográfico con la saturación y efectividad de los Servicios de Emergencia Médica. Esta investigación conecta el fenómeno macro (demografía) con la respuesta micro (atención de emergencias).
 - ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
-
-[Escriba aquí su reformulación de la pregunta de investigación...]
-
+Al responder esta pregunta, aprenderemos cómo la infraestructura de emergencia se adapta o falla ante una población envejecida bajo condiciones de crisis. Los resultados permitirán proponer una redistribución de recursos hacia áreas con mayores índices de vejez y fundamentar la necesidad de capacitación geriátrica obligatoria para el personal de respuesta.
+[Escribe aquí su reformulación de la pregunta de investigación ...]
+¿De qué manera el acelerado proceso de envejecimiento poblacional en Puerto Rico ha condicionado la demanda y la capacidad de respuesta de los Servicios de Emergencia Médica  durante el periodo 2010-2024?
 ---
 
 # Parte 2: Bibliografía anotada
-
-Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada que incluya entre cinco y ocho fuentes académicas relacionadas con su tema.
-
-**Requisitos:**
-
-- Las fuentes académicas incluyen artículos en revistas académicas y/o libros publicados por editoriales académicas (normalmente, estos tienen la palabra «Universidad» en su nombre).
-- Las fuentes académicas **NO** incluyen informes de *think tanks*, ya que dichos informes no son revisados por pares; tampoco incluyen artículos de periódicos o revistas no académicas.
-- Sus fuentes para la bibliografía anotada deben ayudarle a desarrollar sus conceptos, medidas y marco teórico/analítico. Estas fuentes **NO** deben ser fuentes de datos.
-
-**Para cada fuente incluya:**
-
-1. Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
-2. Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
-
-## Ejemplo de entrada en la bibliografía anotada
-
-::: {.callout-warning}
-## Borre este ejemplo antes de entregar
-
-La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su documento y sustituirla por sus propias fuentes en la sección «Sus fuentes anotadas» más abajo.
-:::
-
-**1.** @hall2009institutional
-
-**Anotación:** En este artículo, Hall y Thelen exploran cómo las instituciones económicas evolucionan en diferentes sistemas de economía de mercado. Analizan los mecanismos de cambio institucional y argumentan que las instituciones no son estáticas, sino que cambian a través de procesos graduales influenciados por actores políticos y económicos. El estudio adopta un enfoque deductivo, desarrollando su marco teórico a partir de conceptos existentes, y utiliza análisis teórico y comparativo para determinar sus hallazgos estudiando casos.
 
 ---
 
@@ -107,25 +87,32 @@ La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su do
 
 [Agregue aquí sus 5-8 fuentes con sus respectivas anotaciones...]
 
-**1.** [Cita de la fuente 1]
+**1.**  @sun2020hospital
 
-**Anotación:** [Su anotación aquí...]
+**Anotación:**  Este artículo académico investiga la reducción de la capacidad hospitalaria en Puerto Rico y su utilización durante la última década. Los hallazgos son fundamentales para mi investigación porque permiten contrastar cómo la infraestructura de salud disminuye mientras la demanda potencial de la población envejecida aumenta. Esta fuente ayuda a contextualizar por qué los servicios de emergencia enfrentan mayores dificultades al canalizar pacientes hacia centros de cuidado definitivo.
 
-**2.** [Cita de la fuente 2]
+**2.** @rivera2024frail
 
-**Anotación:** [Su anotación aquí...]
+**Anotación:** La investigación examina los patrones de uso de servicios médicos entre adultos mayores frágiles en el contexto puertorriqueño. Es una fuente clave para desarrollar mi marco analítico sobre la "demanda por fragilidad", ya que demuestra empíricamente que este grupo utiliza los servicios de emergencia con mayor frecuencia. Utilizaré este estudio para sustentar que el aumento en las llamadas de EMS está directamente vinculado a las condiciones de salud de la población de edad avanzada.
 
-[Continúe con las demás fuentes...]
+**3.** @smith2018demand
 
+**Anotación:**Este estudio analiza cómo las sociedades con poblaciones envejecidas transforman la naturaleza de los servicios de emergencia prehospitalarios. El autor argumenta que los sistemas deben evolucionar de un enfoque tradicional de trauma hacia uno de manejo de condiciones crónicas agudizadas. Esta fuente es útil para mi trabajo porque proporciona la base teórica necesaria para proponer reformas en la capacitación del personal de respuesta en Puerto Rico.
+
+**4.** @weiss2021ems
+
+**Anotación:**El artículo ofrece una perspectiva nacional sobre la frecuencia de respuesta de los EMS hacia adultos mayores, destacando que los mayores de 85 años utilizan el servicio hasta tres veces más que otros adultos. Dado que Puerto Rico sigue tendencias similares a las de Estados Unidos pero con mayor rapidez, estos datos sirven como un modelo predictivo relevante. Ayuda a validar la urgencia de mi investigación mediante evidencia estadística comparativa.
+
+**5.**  @perez2022demographic
+
+**Anotación:**Este trabajo explora los factores socioeconómicos que impulsan la transición demográfica en el Caribe, con un énfasis particular en Puerto Rico. La fuente es vital para mi marco teórico ya que explica las causas de la crisis demográfica, como la migración juvenil y la baja tasa de natalidad. Me permite conectar los factores macro-sociales con el problema operativo de la saturación de los servicios de emergencia médica.
 ---
 
 # Declaración de uso de MEL {.unnumbered}
 
-[Si utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM), complete esta sección según las instrucciones del sílabo. De lo contrario, indique "No se utilizaron herramientas de MEL en esta tarea."]
-
+Se utilizó Gemini para asistir en la redacción y revisión de este trabajo.
 ---
 
-# Referencias {.unnumbered}
+# Referencias {5}
 
-::: {#refs}
-:::
+
